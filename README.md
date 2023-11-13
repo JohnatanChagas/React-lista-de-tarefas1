@@ -1,8 +1,17 @@
-# React + Vite
+# Lista de Tarefas React
+Criei um componente React para uma Lista de Tarefas! ✨ Ele utiliza useState e useEffect para gerenciar o estado da lista, mantendo os dados no armazenamento local. Permite adição, marcação de conclusão e exclusão de tarefas. Interface simples e funcional! 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tecnologias
+-JavaScript
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-React
+
+
+-HTML
+
+
+-CSS
+
+![Captura de tela 2023-11-13 172250](https://github.com/JohnatanChagas/React-lista-de-tarefas1/assets/127504003/5ef18ae6-04c7-482e-860e-41cf7b03e7ed)
+![Captura de tela 2023-11-13 172330](https://github.com/JohnatanChagas/React-lista-de-tarefas1/assets/127504003/67746796-7118-4892-ae1c-b1924c618648)
